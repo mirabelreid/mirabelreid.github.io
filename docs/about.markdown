@@ -7,5 +7,5 @@ Hello! My name is Mirabel Reid, and I am a PhD student in Computer Science at Ge
 
 Contact me: mreid48@gatech.edu
 
-Connect via LinkedIn: <a href=https://www.linkedin.com/in/mirabel-reid-b3b779156/> LinkedIn<a>
+Connect via LinkedIn: [LinkedIn](https://www.linkedin.com/in/mirabel-reid-b3b779156)
 
