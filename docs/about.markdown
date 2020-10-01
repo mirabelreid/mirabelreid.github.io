@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hello! My name is Mirabel Reid, and I am a PhD student in Computer Science at Georgia Institute of Technology. I am a research assistant in the CS Theory Group.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Contact me: mreid48@gatech.edu
+Connect via LinkedIn: https://www.linkedin.com/in/mirabel-reid-b3b779156/
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
