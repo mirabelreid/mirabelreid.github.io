@@ -10,9 +10,7 @@ layout: home
 
 <h3>Publications and Presentations</h3>
  * The k-Cap Process on Geometric Random Graphs. Mirabel Reid and Santosh S. Vempala. ArXiv Preprint <a href="https://arxiv.org/abs/2203.12680">here</a>
- * 
  * The Effects of Locality on Neural Firing Dynamics. Poster presented at Computational and Systems Neuroscience 2023. View it online <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/kcapcosyne.pdf">here</a>.
- * 
  * The k-Cap Process on Geometric Random Graphs. Poster presented at Mathematical and Scientific Foundations of Deep Learning Annual Meeting 2022. View it online  <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/kcapGRGPosterMoDL.pdf">here</a>.
 <h3>More about my experience</h3>
 <h4>Graduate</h4>
