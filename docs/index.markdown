@@ -9,9 +9,9 @@ layout: home
 <h3>Research Interests</h3>
 
 <h3>Publications and Presentations</h3>
- * The k-Cap Process on Geometric Random Graphs. Mirabel Reid and Santosh S. Vempala. ArXiv Preprint <a href="https://arxiv.org/abs/2203.12680">here</a>
- * The Effects of Locality on Neural Firing Dynamics. Poster presented at Computational and Systems Neuroscience 2023. View it online <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/kcapcosyne.pdf">here</a>.
- * The k-Cap Process on Geometric Random Graphs. Poster presented at Mathematical and Scientific Foundations of Deep Learning Annual Meeting 2022. View it online  <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/kcapGRGPosterMoDL.pdf">here</a>.
+ The k-Cap Process on Geometric Random Graphs. Mirabel Reid and Santosh S. Vempala. ArXiv Preprint <a href="https://arxiv.org/abs/2203.12680">here</a>
+ The Effects of Locality on Neural Firing Dynamics. Poster presented at Computational and Systems Neuroscience 2023. View it online <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/kcapcosyne.pdf">here</a>.
+ The k-Cap Process on Geometric Random Graphs. Poster presented at Mathematical and Scientific Foundations of Deep Learning Annual Meeting 2022. View it online  <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/kcapGRGPosterMoDL.pdf">here</a>.
 <h3>More about my experience</h3>
 <h4>Graduate</h4>
 <p>My doctoral research has focused on analyzing iterative processes over random graphs. My primary focus has been studying the k-cap process, defined as follows. Given a random graph G, the 𝑘-cap process is defined as follows. At each time step 𝑡, there is a set 𝐴𝑡 consisting of 𝑘 vertices of G, where 𝑘 is a fixed parameter of the process. This set fires, delivering a signal to its neighbors. At the next time step, 𝑡+1, the 𝑘 vertices with the highest degree from 𝐴𝑡 fire. This simple process has complex underlying behavior. It also has applications to the study of the behavior of firing neurons in the brain.</p>
