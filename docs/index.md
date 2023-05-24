@@ -20,8 +20,6 @@ layout: default
 
 [Page Link 4]({% link cv.md %})
 
-
-[Page Link 5]({% link cv%})
 <h3>Research Interests</h3>
 *  Mathematically tractable models for neural computation.\\
 *  Random Graphs and the probabilistic analysis of recurrent processes.
