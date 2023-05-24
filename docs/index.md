@@ -21,11 +21,9 @@ layout: default
 [Page Link 4]({% link cv.md %})
 
 
-[Page Link 5]({% link docs/cv.md %})
-
-[Page Link 6]({% link cv%})
+[Page Link 5]({% link cv%})
 <h3>Research Interests</h3>
-*  Mathematically tractable models for neural computation.
+*  Mathematically tractable models for neural computation.\\
 *  Random Graphs and the probabilistic analysis of recurrent processes.
 *  Interplay between machine and human learning and computation.
 <h3>Publications and Presentations</h3>
