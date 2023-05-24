@@ -18,10 +18,12 @@ layout: default
 [Page Link 3](./cv.md)
 
 
-[Page Link 4](docs/cv.md)
+[Page Link 4]({% link cv.md %})
 
 
-[Page Link 5](./docs/cv.md)
+[Page Link 5]({% link docs/cv.md %})
+
+[Page Link 6]({% link cv%})
 <h3>Research Interests</h3>
 *  Mathematically tractable models for neural computation.
 *  Random Graphs and the probabilistic analysis of recurrent processes.

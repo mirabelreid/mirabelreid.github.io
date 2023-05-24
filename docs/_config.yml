@@ -23,8 +23,8 @@ email: mreid48@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   
   Welcome to my personal research website. 
-  [Resume](/cv)
-  [Contact](/contact)
+  [Resume]({% link docs/cv.md %})
+  [Contact]({% link contact.md %})
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://mirabelreid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: mirabelreid.github.io    
