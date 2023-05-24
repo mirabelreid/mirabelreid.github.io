@@ -5,7 +5,7 @@
 layout: default
 ---
 <p> Hello! My name is Mirabel Reid, and I am currently working toward my PhD in Computer Science at Georgia Tech. I am advised by Dr. Santosh Vempala.</p>
-<p>![Reid Photo](/ReidPhoto.png)
+<p>![Reid Photo](/Reid_photo.png)
 
 [Page Link 1](/docs/cv.html)
 
