@@ -7,15 +7,15 @@ layout: default
 <p> Hello! My name is Mirabel Reid, and I am currently working toward my PhD in Computer Science at Georgia Tech. I am advised by Dr. Santosh Vempala.</p>
 <p>![Reid Photo](/ReidPhoto.png)
 
-[Page Link 1](/docs/cv.markdown)
+[Page Link 1](/docs/cv.html)
 
-[Page Link 2](cv.markdown)
+[Page Link 2](cv.html)
 
-[Page Link 3](./cv.markdown)
+[Page Link 3](./cv.html)
 
-[Page Link 4](docs/cv.markdown)
+[Page Link 4](docs/cv.html)
 
-[Page Link 5](./docs/cv.markdown)
+[Page Link 5](./docs/cv.html)
 <h3>Research Interests</h3>
 *  Mathematically tractable models for neural computation.
 *  Random Graphs and the probabilistic analysis of recurrent processes.
