@@ -10,6 +10,9 @@ layout: default
 
 <p>Connect via LinkedIn: [LinkedIn](https://www.linkedin.com/in/mirabel-reid-b3b779156)</p>
 
+<p> View my resume <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/Reid-Resume-Oct2023.pdf">here</a>. </p>
+
+
 <h3>Research Interests</h3>
 -  Mathematically tractable models for neural computation.  
 -  Random Graphs and the probabilistic analysis of recurrent processes.
