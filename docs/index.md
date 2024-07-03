@@ -8,7 +8,7 @@ layout: default
 
 <p>Contact me: mreid48@gatech.edu</p>
 
-<p>Connect via LinkedIn: [LinkedIn](https://www.linkedin.com/in/mirabel-reid-b3b779156)</p>
+<p>Connect via LinkedIn: <a href="https://www.linkedin.com/in/mirabel-reid-b3b779156">LinkedIn</a></p>
 
 <p> View my resume <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/Reid-Resume-Oct2023.pdf">here</a>. </p>
 
@@ -18,6 +18,7 @@ layout: default
 -  Random Graphs and the probabilistic analysis of recurrent processes.
 -  Interplay between machine and human learning and computation.
 <h3>Publications and Presentations</h3>
+- Does GPT Really Get It? A Hierarchical Scale to Quantify Human vs AI's Understanding of Algorithms. Mirabel Reid and Santosh S. Vempala. View it <a href="https://arxiv.org/abs/2406.14722">here</a>
 -  The k-Cap Process on Geometric Random Graphs. Mirabel Reid and Santosh S. Vempala. Published at COLT 2023. View it <a href="https://proceedings.mlr.press/v195/reid23a/reid23a.pdf">here</a>
 -  The Effects of Locality on Neural Firing Dynamics. Poster presented at Computational and Systems Neuroscience 2023. View it online <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/kcapcosyne.pdf">here</a>.
 -  The k-Cap Process on Geometric Random Graphs. Poster presented at Mathematical and Scientific Foundations of Deep Learning Annual Meeting 2022. View it online  <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/kcapGRGPosterMoDL.pdf">here</a>.
