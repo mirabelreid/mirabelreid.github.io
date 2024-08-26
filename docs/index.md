@@ -6,8 +6,6 @@ layout: default
 ---
 <p> Hello! My name is Mirabel Reid, and I am currently working toward my PhD in Computer Science at Georgia Tech. I am advised by Dr. Santosh Vempala.</p>
 
-![Photo](assets/Reid-photo.JPG)
-
 <p>Contact me: mreid48@gatech.edu</p>
 
 <p>Connect via LinkedIn: <a href="https://www.linkedin.com/in/mirabel-reid-b3b779156">LinkedIn</a></p>
