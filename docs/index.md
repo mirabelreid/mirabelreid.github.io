@@ -10,7 +10,7 @@ layout: default
 
 <p>Connect via LinkedIn: <a href="https://www.linkedin.com/in/mirabel-reid-b3b779156">LinkedIn</a></p>
 
-<p> View my resume <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/Reid-Resume-Jul2024.pdf">here</a>. </p>
+<p> View my resume <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/Reid-Resume-Oct2024.pdf">here</a>. </p>
 
 
 <h3>Research Interests</h3>
