@@ -18,7 +18,7 @@ layout: default
 -  Random Graphs and the probabilistic analysis of recurrent processes.
 -  Interplay between machine and human learning and computation.
 <h3>Publications and Presentations</h3>
-- Does GPT Really Get It? A Hierarchical Scale to Quantify Human vs AI's Understanding of Algorithms. Mirabel Reid and Santosh S. Vempala. View it <a href="https://arxiv.org/abs/2406.14722">here</a>.
+- Does GPT Really Get It? A Hierarchical Scale to Quantify Human vs AI's Understanding of Algorithms. Mirabel Reid and Santosh S. Vempala. Accepted at the Workshop on Behavioral ML at NeurIPS 2024. View it <a href="https://arxiv.org/abs/2406.14722">here</a>.
 -  The k-Cap Process on Geometric Random Graphs. Mirabel Reid and Santosh S. Vempala. Published at COLT 2023. View it <a href="https://proceedings.mlr.press/v195/reid23a/reid23a.pdf">here</a>.
 - Online Decision Deferral under Budget Constraints. Mirabel Reid, Tom Sühr, Claire Vernade, Samira Samadi. View it <a href="https://arxiv.org/abs/2409.20489">here</a>.
 - Improving Radiography Machine Learning Workflows via Metadata Management for Training Data Selection. Mirabel Reid, Christine Sweeney, and Oleg Korobkin. View it <a href="https://arxiv.org/abs/2408.12655">here</a>.
