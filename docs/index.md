@@ -4,17 +4,12 @@
 
 layout: default
 ---
-<h2>About Me</h2>
 <p>
   I’m <strong>Mirabel Reid</strong>, a PhD candidate in Computer Science at <strong>Georgia Tech</strong>, advised by Dr. Santosh Vempala. 
   My research lies at the intersection of theoretical computer science, neuroscience, and human-AI understanding.
 </p>
 <p>
   I'm currently interning at <strong>Meta (Sunnyvale)</strong>.
-</p>
-<p>
-  📧 <a href="mailto:mreid48@gatech.edu">mreid48@gatech.edu</a> <br>
-  🔗 <a href="https://www.linkedin.com/in/mirabel-reid-b3b779156">LinkedIn</a> | 📄 <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/Reid-CV.pdf">Resume (PDF)</a>
 </p>
 <hr>
 <h3>Research Interests</h3>
