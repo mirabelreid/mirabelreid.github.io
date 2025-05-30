@@ -18,34 +18,21 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-  <div class="header-container">
+<header class="custom-header">
+  <div class="header-content">
     <div class="header-text">
-      <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-      <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
+      <p>Email: <a href="mailto:mreid48@gatech.edu">mreid48@gatech.edu</a></p>
+      <p>
+        <a href="https://www.linkedin.com/in/mirabel-reid-b3b779156">LinkedIn</a> |
+        <a href="https://github.com/mirabelreid/mirabelreid.github.io/raw/master/Reid-CV.pdf">Resume</a>
+      </p>
     </div>
-    <div class="header-image">
-      <img src="{{ '/assets/Reid-photo.JPG' | relative_url }}" alt="Photo of Mirabel Reid">
+    <div class="header-photo">
+      <img src="{{ '/assets/Reid-photo.JPG' | relative_url }}" alt="Photo of Mirabel Reid" />
     </div>
   </div>
-
-  <ul>
-    {% if site.show_downloads %}
-      <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
-      <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
-    {% endif %}
-    <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
-  </ul>
-
-  {% if site.github.is_project_page %}
-    <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-  {% endif %}
-
-  {% if site.github.is_user_page %}
-    <ul>
-      <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-    </ul>
-  {% endif %}
 </header>
       <section>
         {{ content }}
