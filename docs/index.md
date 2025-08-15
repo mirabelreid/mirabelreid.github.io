@@ -8,9 +8,6 @@ layout: default
   I’m <strong>Mirabel Reid</strong>, a PhD candidate in Computer Science at <strong>Georgia Tech</strong>, advised by Dr. Santosh Vempala. 
   My research lies at the intersection of theoretical computer science, neuroscience, and human-AI understanding.
 </p>
-<p>
-  I'm currently interning at <strong>Meta (Sunnyvale)</strong>.
-</p>
 <hr>
 <h3>Research Interests</h3>
 <ul>
@@ -80,9 +77,13 @@ layout: default
 <h4>Graduate Research</h4>
 <p>My doctoral research has focused on analyzing iterative processes over random graphs. My primary focus has been studying the k-cap process, defined as follows. Given a random graph G, the 𝑘-cap process is defined as follows. At each time step 𝑡, there is a set 𝐴𝑡 consisting of 𝑘 vertices of G, where 𝑘 is a fixed parameter of the process. This set fires, delivering a signal to its neighbors. At the next time step, 𝑡+1, the 𝑘 vertices with the highest degree from 𝐴𝑡 fire. This simple process has complex underlying behavior. It also has applications to the study of the behavior of firing neurons in the brain.</p>
 
-<p>Given an initial firing set, a natural question to ask is how the structure of the firing set evolves over time. This question depends heavily on the structure of the graph. I studied the convergence of this process on geometric random graphs, focusing on a graph structure that had dense local subgraphs. In a geometric random graph, the probability of an edge is a function of the distance between its endpoints in a hidden variable space. Because this distance can represent physical space, this type of graph is often used to model physical transportation networks. It has been studied as a model for networks of neurons in the brain. The paper is available <a href="https://proceedings.mlr.press/v195/reid23a/reid23a.pdf">here</a>. If you are interested, you can also download simulation code at <a href="https://github.com/mirabelreid/Assemblies-Simulations">this repository </a>
-<p> In Summer 2023, I interned at the Max Planck Institute for Intelligent Systems with Dr. Samira Samadi on online algorithms for learning to defer to human experts. We devised a contextual bandit model of this setting and leveraged the relevant literature to build an efficient algorithm with strong guarantees.</p>
- <p> In Summer 2022, I was an intern at Los Alamos National Laboratory, where I researched the machine learning workflow in the sciences. Building ML models in the natural sciences requires a different outlook, often with a heavier focus on data exploration. Despite this, most of the literature on the ML workflow focuses solely on industry applications. I investigated this disparity and built a metadata visualization platform to meet the data exploration needs of a group at Los Alamos.</p>
+<p>Given an initial firing set, a natural question to ask is how the structure of the firing set evolves over time. This question depends heavily on the structure of the graph. I studied the convergence of this process on geometric random graphs, focusing on a graph structure that had dense local subgraphs. In a geometric random graph, the probability of an edge is a function of the distance between its endpoints in a hidden variable space. Because this distance can represent physical space, this type of graph is often used to model physical transportation networks. It has been studied as a model for networks of neurons in the brain. The paper is available <a href="https://proceedings.mlr.press/v195/reid23a/reid23a.pdf">here</a>. If you are interested, you can also download simulation code at <a href="https://github.com/mirabelreid/Assemblies-Simulations">this repository. </a>
+
+<p>
+  In Summer 2025, I interned at <strong>Meta (Sunnyvale)</strong>.
+</p>
+<p> In Summer 2023, I interned at the <strong>Max Planck Institute for Intelligent Systems</strong> with Dr. Samira Samadi on online algorithms for learning to defer to human experts. We devised a contextual bandit model of this setting and leveraged the relevant literature to build an efficient algorithm with strong guarantees.</p>
+ <p> In Summer 2022, I was an intern at <strong>Los Alamos National Laboratory</strong>, where I researched the machine learning workflow in the sciences. Building ML models in the natural sciences requires a different outlook, often with a heavier focus on data exploration. Despite this, most of the literature on the ML workflow focuses solely on industry applications. I investigated this disparity and built a metadata visualization platform to meet the data exploration needs of a group at Los Alamos.</p>
 
 <h4>Undergraduate</h4>
 <p> I interned at the Software Engineering Institute from January-August 2020. I worked with the Emerging Technology Center and the Software Solutions Division, and researched novel applications of Graph Neural Networks to software development.</p>
