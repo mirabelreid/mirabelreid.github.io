@@ -23,7 +23,7 @@ layout: default
 <h3>Publications</h3>
 <ul>
  <li> <strong>The alpha-Cap Process: A Continuous Model for Random Geometric Networks of Binary Neurons</strong><br>
-    Mirabel Reid and Daniel Zhang. In submission.  </li>
+    Mirabel Reid and Daniel Zhang. <a href="https://arxiv.org/pdf/2508.09396">View it here</a> </li>
   <li>
     <strong>Does GPT Really Get It? A Hierarchical Scale to Quantify Human vs AI's Understanding of Algorithms.</strong><br>
     Mirabel Reid and Santosh S. Vempala. Proceedings of AAAI 2025 (Oral). 
