@@ -11,11 +11,31 @@
       {%- endif -%}
     </title>
     <meta name="description" content="{{ site.description | strip_newlines | escape }}" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+
     <link rel="stylesheet" href="{{ "/assets/css/site.css" | relative_url }}" />
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="brand">
+          <a class="brand-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+          <div class="brand-subtitle">{{ site.description | strip_newlines }}</div>
+        </div>
+
+        <nav class="nav" aria-label="Primary">
+          <a class="nav-link" href="{{ "/" | relative_url }}">Home</a>
+          <a class="nav-link" href="{{ "/Reid-CV.pdf" | relative_url }}">CV (PDF)</a>
+          {%- if site.linkedin_url and site.linkedin_url != "" -%}
+            <a class="nav-link" href="{{ site.linkedin_url }}">LinkedIn</a>
+          {%- endif -%}
+          {%- if site.scholar_url and site.scholar_url != "" -%}
+            <a class="nav-link" href="{{ site.scholar_url }}">Google Scholar</a>
+          {%- endif -%}
+        </nav>
+      </div>
+    </header>
 
     {%- if page.url == "/" -%}
       <section class="hero">
@@ -28,27 +48,24 @@
             </p>
             <div class="hero-actions">
               <a class="button" href="{{ "/Reid-CV.pdf" | relative_url }}">Download CV</a>
-              <div class="contact-icons" aria-label="Contact links">
-              {%- if site.email and site.email != "" -%}
-                <a class="icon-link" href="mailto:{{ site.email }}" aria-label="Email">
-                  <i class="fa-solid fa-envelope" aria-hidden="true"></i>
-                </a>
-              {%- endif -%}
-
-              {%- if site.linkedin_url and site.linkedin_url != "" -%}
-                <a class="icon-link" href="{{ site.linkedin_url }}" aria-label="LinkedIn" target="_blank" rel="noopener">
-                  <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
-                </a>
-              {%- endif -%}
-
-              {%- if site.scholar_url and site.scholar_url != "" -%}
-              <a class="icon-link" href="{{ site.scholar_url }}" aria-label="Google Scholar" target="_blank" rel="noopener">
-                <svg class="icon-svg" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                  <path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/>
-                </svg>
-              </a>
-              {%- endif -%}
-            </div>
+              <div class="contact-card">
+                <div class="contact-row">
+                  <span class="contact-label">Email</span>
+                  <a class="contact-link" href="mailto:{{ site.email }}">{{ site.email }}</a>
+                </div>
+                {%- if site.linkedin_url and site.linkedin_url != "" -%}
+                  <div class="contact-row">
+                    <span class="contact-label">LinkedIn</span>
+                    <a class="contact-link" href="{{ site.linkedin_url }}">{{ site.linkedin_url }}</a>
+                  </div>
+                {%- endif -%}
+                {%- if site.scholar_url and site.scholar_url != "" -%}
+                  <div class="contact-row">
+                    <span class="contact-label">Scholar</span>
+                    <a class="contact-link" href="{{ site.scholar_url }}">{{ site.scholar_url }}</a>
+                  </div>
+                {%- endif -%}
+              </div>
             </div>
           </div>
 
