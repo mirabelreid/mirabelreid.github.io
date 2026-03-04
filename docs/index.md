@@ -6,7 +6,9 @@ permalink: /
 
 ## About
 
-I am **Mirabel Reid**, and I have just graduated with my PhD in computer science from **Georgia Tech**, advised by **Santosh Vempala**.
+I am **Mirabel Reid**, and I am a Postdoctoral Researcher at **TU Darmstadt** in the lab of **Angela Yu**. 
+
+I received my PhD in Computer Science from **Georgia Tech**, and I was advised by **Santosh Vempala**.
 
 My research lies at the intersection of **theoretical computer science**, **neuroscience**, and **human-AI understanding**.
 
