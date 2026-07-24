@@ -20,8 +20,9 @@ My research lies at the intersection of **theoretical computer science**, **neur
 - Interplay between machine and human learning and computation.
 
 ## Publications
-
-- **The alpha-Cap Process: A Continuous Model for Random Geometric Networks of Binary Neurons**  
+- **Measuring Algorithm Understanding in Humans and AI.**  
+  Mirabel Reid, Khushi Sharma, and Anand Singh. Proceedings of Cogsci 2026 (Poster). 
+- **The alpha-Cap Process: A Continuous Model for Random Geometric Networks of Binary Neurons.**  
   Mirabel Reid and Daniel Zhang. <a href="https://arxiv.org/pdf/2508.09396">View it here.</a> 
 - **Does GPT Really Get It? A Hierarchical Scale to Quantify Human vs AI's Understanding of Algorithms.**  
   Mirabel Reid and Santosh S. Vempala. Proceedings of AAAI 2025 (Oral).<a href="https://arxiv.org/abs/2406.14722">View it here.</a>
