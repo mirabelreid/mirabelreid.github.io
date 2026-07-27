@@ -21,7 +21,7 @@ My research lies at the intersection of **theoretical computer science**, **neur
 
 ## Publications
 - **Measuring Algorithm Understanding in Humans and AI.**  
-  Mirabel Reid, Khushi Sharma, and Anand Singh. Proceedings of Cogsci 2026 (Poster). 
+  Mirabel Reid, Khushi Sharma, and Anand Singh. Proceedings of Cogsci 2026. 
 - **Does GPT Really Get It? A Hierarchical Scale to Quantify Human vs AI's Understanding of Algorithms.**  
   Mirabel Reid and Santosh S. Vempala. Proceedings of AAAI 2025 (Oral).<a href="https://arxiv.org/abs/2406.14722">View it here.</a>
   Check out the survey questions at 
