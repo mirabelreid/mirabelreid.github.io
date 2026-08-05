@@ -21,7 +21,7 @@ My research lies at the intersection of **theoretical computer science**, **neur
 
 ## Publications
 - **Measuring Algorithm Understanding in Humans and AI.**  
-  Mirabel Reid, Khushi Sharma, and Anand Singh. Proceedings of Cogsci 2026. 
+  Mirabel Reid, Khushi Sharma, and Anand Singh. Proceedings of Cogsci 2026. <a href="https://escholarship.org/uc/item/36t305xw"> View it here. </a>
 - **Does GPT Really Get It? A Hierarchical Scale to Quantify Human vs AI's Understanding of Algorithms.**  
   Mirabel Reid and Santosh S. Vempala. Proceedings of AAAI 2025 (Oral).<a href="https://arxiv.org/abs/2406.14722">View it here.</a>
   Check out the survey questions at 
@@ -32,7 +32,7 @@ My research lies at the intersection of **theoretical computer science**, **neur
   Mirabel Reid and Santosh S. Vempala. Published at COLT 2023. <a href="https://proceedings.mlr.press/v195/reid23a/reid23a.pdf">View it here</a>.
 
 ## Preprints
-- **The alpha-Cap Process: A Continuous Model for Random Geometric Networks of Binary Neurons.**  
+- **Convergence to Radial Symmetry in Iterative Convolution-Thresholding Dynamics.**   
   Mirabel Reid and Daniel Zhang. <a href="https://arxiv.org/pdf/2508.09396">View it here.</a> 
 - **Online Decision Deferral under Budget Constraints.**  
   Mirabel Reid, Tom Sühr, Claire Vernade, Samira Samadi. <a href="https://arxiv.org/abs/2409.20489">View it here</a>.
